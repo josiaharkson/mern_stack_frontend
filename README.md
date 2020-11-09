@@ -18,6 +18,6 @@ This project was bootstrapped with
 Runs the app in development mode.<br> Open
 [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### Kindly check `/about.txt` file which contains the lait of tools and technologies used for this assignment.
+### Kindly check `/about.txt` file which contains the list of tools and technologies used for this assignment.
 
 
