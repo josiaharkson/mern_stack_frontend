@@ -20,9 +20,9 @@ Runs the app in development mode.<br> Open
 
 ## To run a production build on your local machine
 
-Run the command
+### Run the command
 
-### `npm run build` or `yarn build`
+- `npm run build` or `yarn build`
 
 Creates an optimized production build, and serves the static build files via
 express server. Open [http://localhost:3000](http://localhost:3000) to view it
