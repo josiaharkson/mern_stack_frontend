@@ -28,4 +28,4 @@ Creates an optimized production build, and serves the static build files via
 express server. Open [http://localhost:3000](http://localhost:3000) to view it
 in the browser.
 
-## To run tests
+
