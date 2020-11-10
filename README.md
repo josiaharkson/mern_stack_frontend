@@ -9,9 +9,9 @@ This project was bootstrapped with
 
 Install dependencies using your preferred package manager
 
-### `npm install` or `yarn install`
+### Run the commond `cd ./client` and then `npm install` or `yarn install`
 
-Inside the project root directory, you can run some built-in commands:
+Inside the `./client` directory, you can run some built-in commands:
 
 ### `npm start` or `yarn start`
 
