@@ -1,5 +1,0 @@
-Technologies Used For this Assignment.
-- React.js - Frontend Library
-- Material UI - UI components an icons
-- React-router-dom - Frontend routing/navigation
-- 
