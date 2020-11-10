@@ -9,7 +9,7 @@ This project was bootstrapped with
 
 Install dependencies using your preferred package manager
 
-### Run the commond `cd ./client` and then `npm install` or `yarn install`
+### Run the command `cd ./client` and then `npm install` or `yarn install`
 
 Inside the `./client` directory, you can run some built-in commands:
 
@@ -18,14 +18,6 @@ Inside the `./client` directory, you can run some built-in commands:
 Runs the app in development mode.<br> Open
 [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## To run a production build on your local machine
-
-Run the command
-
-### `npm run build` or `yarn build`
-
-Creates an optimized production build, and serves the static build files via
-express server. Open [http://localhost:3000](http://localhost:3000) to view it
-in the browser.
-
-## To run tests
+### Application deployed on Heroku. You can check it out here - https://mern-app-frontend.herokuapp.com/
+ 
+ 
